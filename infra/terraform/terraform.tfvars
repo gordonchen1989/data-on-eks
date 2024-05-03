@@ -1,0 +1,11 @@
+name = "airflow-spark-workshop"
+region = "us-west-2"
+eks_cluster_version = "1.29"
+enable_amazon_prometheus = true
+create_db_airflow = true
+enable_kube_prometheus_stack = true
+enable_aws_for_fluentbit = true
+enable_kubecost = true
+enable_airflow = true
+enable_spark_tools_team_a = true
+enable_yunikorn = false
